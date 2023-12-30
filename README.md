@@ -3,7 +3,7 @@
 <h2> Cybersecurity learning Projects:</h2>
 
 - <b> Honeynet </b>
-  - [Project learning on Azure]()
+  
   
 
 <h2> QA Engineer learning Projects:</h2>

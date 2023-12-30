@@ -4,13 +4,13 @@
 
 - <b> Honeynet </b>
   - [Project learning on Azure]()
-  - 
+  
 
 <h2> QA Engineer learning Projects:</h2>
 
- <b> Manual Test (Jira, Confluence,Postman)</b>
+- <b> Manual Test (Jira, Confluence,Postman)</b>
   - [Project learning for manual test](https://github.com/Moccabee/QA-Engineer-course)
-  - 
+
 
 
 
